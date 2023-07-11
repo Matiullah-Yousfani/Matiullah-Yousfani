@@ -29,8 +29,8 @@ The project allowed me to apply my knowledge of OOP concepts, database integrati
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile-url)
-- Email: your-email@example.com
-- Phone: +1234567890
+- LinkedIn: https://www.linkedin.com/in/matiullah-yousfani-41a7a1278/
+- Email: usfanimutiullah@gmail.com
+- Phone: +923075208606
 
 Feel free to reach out to me if you have any opportunities or questions. I'm always open to new collaborations and challenges!
